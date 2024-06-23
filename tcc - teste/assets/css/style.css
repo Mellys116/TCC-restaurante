@@ -49,10 +49,8 @@ header {
     height: 40px;
 }
 .espetinho {
- padding: 15%;
- width: 100px;
- height: 100px;
- 
+padding: 15%;
+background-size: 100px;
 }
 @media screen and (max-width: 1130px) {
     .nav-bar {
